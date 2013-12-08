@@ -1,4 +1,4 @@
-Open Source BBQ.
+BBQ.
 
 Meat. Rub. Smoke. Maybe some sauce.
 
