@@ -1,6 +1,3 @@
-BBQ
-===
-
 Open Source BBQ.
 
 Meat. Rub. Smoke. Maybe some sauce.
